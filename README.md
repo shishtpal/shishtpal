@@ -1,5 +1,11 @@
 # Active Projects
 
+## Browser Server
+
+Browser Server is a self-hosted personal-data service with a web app and browser extensions. It stores todos, bookmarks, browsing history, password-wallet entries, screenshots, and per-domain usage analytics in local SQLite databases.
+
+- [GitHub](https://github.com/shishtpal/browser-server)
+
 ## zpy
 
 ZPy is a Python-like language interpreter written in Zig

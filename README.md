@@ -1,5 +1,15 @@
 # Active Projects
 
+## PowerShell
+
+### SpiAgentHarness
+
+An independent PowerShell 7.0+ agent harness with local tools, MCP servers, folder skills, child agents, provider discovery, and decision models.
+
+- [GitHub](https://github.com/shishtpal/SpiAgentHarness)
+
+---
+
 ## Go lang
 
 ### Browser Server
